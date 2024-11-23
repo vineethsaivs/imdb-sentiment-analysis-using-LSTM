@@ -1,0 +1,12 @@
+*.gguf filter=lfs diff=lfs merge=lfs -text
+meta-llama-3.1-8b-instruct-q6_k.* filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/tensorflow/_api/v2/compat/v2/feature_column/__pycache__ filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/tensorflow/include/external/icu/icu4c/source/common/unicode/ures.h filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/tensorflow/include/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/mpmath/libmp/__pycache__ filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/sympy/printing/tests/__pycache__/test_jscode.cpython-311.pyc filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/scipy/special/tests/__pycache__/test_ellip_harm.cpython-311.pyc filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/numpy/typing/tests/data/pass/__pycache__/scalars.cpython-311.pyc filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/torchvision/transforms/v2/_container.py filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/torch/ao/quantization/fx/__pycache__/_decomposed.cpython-311.pyc filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.11/site-packages/requests_oauthlib/__pycache__/oauth2_auth.cpython-311.pyc filter=lfs diff=lfs merge=lfs -text

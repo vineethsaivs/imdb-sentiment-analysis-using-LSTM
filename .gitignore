@@ -18,3 +18,4 @@ venv/
 # Ignore Git LFS tracked files (if any)
 .gitattributes
 *.lfs
+venv/
