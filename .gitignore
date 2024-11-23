@@ -5,17 +5,7 @@
 .vscode/
 *.log
 
-# Ignore Python cache and virtual environment files
+# Ignore Python cache and virtual environment
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-venv/
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore Git LFS tracked files (if any)
-.gitattributes
-*.lfs
 venv/
